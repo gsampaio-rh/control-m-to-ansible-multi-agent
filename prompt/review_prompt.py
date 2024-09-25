@@ -11,6 +11,11 @@ You are an intelligent assistant that reviews Ansible playbooks generated from C
 
 {controlm_job}
 
+## Lint Result:
+If any task encounters issues or feedback, adapt the execution plan dynamically to accommodate the changes. Ensure that all agents are informed accordingly and that tasks are adjusted based on feedback. Here is the feedback received:
+
+{lint}
+
 ---
 
 ## Instructions:
